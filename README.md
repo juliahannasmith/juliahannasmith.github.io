@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# CIT Minor Portfolio
 
-You can use the [editor on GitHub](https://github.com/juliahannasmith/juliahannasmith.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Photo](https://images.unsplash.com/photo-1487873028783-beb11d92f7b7?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM3fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## CIT 281
+### Projects
+* Project 1
+* Project 2
+* Project 3
+* Project 4
+* Project 5: Not Attempted
+* Project 6
+* Project 7
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliahannasmith/juliahannasmith.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Labs
+* Lab 1
+* Lab 2
+* Lab 3
+* Lab 4
+* Lab 5
+* Lab 6
+* Lab 7
+* Lab 8
+* Lab 9
